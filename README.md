@@ -47,7 +47,7 @@ O VelhaGol foi desenvolvido pensando em diferentes tamanhos de tela, garantindo 
 ## 🚀 Acesso ao Projeto
 
 🔗 **Jogue online:**  
-👉 https://kaiokkj-dev.github.io/velhagol/
+👉 kaiokkj-dev.github.io/VelhaGol1/
 
 *(ajuste o link se o nome do repositório for diferente)*
 
